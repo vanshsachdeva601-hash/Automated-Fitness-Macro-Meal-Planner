@@ -1,0 +1,200 @@
+Food_Name,Meal_Type,Calories,Protein_g,Carbs_g,Fats_g,Category
+Oatmeal with Milk,Breakfast,250,10,40,5,Veg
+Poha with Peanuts,Breakfast,200,6,35,7,Veg
+Egg Omelette (2 eggs),Breakfast,180,14,2,12,Non-Veg
+Sprouted Moong Salad,Breakfast,150,9,25,1,Veg
+Boiled Eggs (3),Breakfast,210,18,1,14,Non-Veg
+Dal Tadka & Rice,Lunch,400,14,65,8,Veg
+Paneer Butter Masala & Roti,Lunch,500,18,45,22,Veg
+Chicken Curry & Rice,Lunch,520,32,50,15,Non-Veg
+Rajma Chawal,Lunch,450,15,70,9,Veg
+Grilled Fish & Quinoa,Lunch,420,35,40,10,Non-Veg
+Mixed Veg Curry & 2 Chapati,Dinner,350,10,50,8,Veg
+Egg Curry & 2 Roti,Dinner,410,22,40,14,Non-Veg
+Soya Chunk Curry & Rice,Dinner,430,30,55,7,Veg
+Chicken Breast & Salad,Dinner,380,40,10,8,Non-Veg
+Paneer Tikka & Salad,Dinner,360,24,12,18,Veg
+Greek Yogurt,Snack,120,10,8,3,Veg
+Handful of Almonds,Snack,160,6,6,14,Veg
+Fruit Salad (Apple/Banana),Snack,130,1,30,0,Veg
+Protein Shake,Snack,180,25,5,3,Veg
+Roasted Chana,Snack,140,7,22,3,Veg
+Paneer Bhurji & 2 Roti,Breakfast,340,20,32,14,Veg
+Besan Chilla (2 pcs),Breakfast,220,12,28,6,Veg
+Peanut Butter Banana Toast,Breakfast,310,11,42,12,Veg
+Scrambled Eggs (3) & Toast,Breakfast,320,21,24,15,Non-Veg
+Idli Sambar (3 pcs),Breakfast,240,8,45,3,Veg
+Upma with Veggies,Breakfast,210,6,36,5,Veg
+Chicken Sausages & Eggs,Breakfast,290,24,4,19,Non-Veg
+Greek Yogurt & Berries,Breakfast,170,15,18,4,Veg
+Chole Chawal,Lunch,470,16,74,11,Veg
+Egg Fried Rice,Lunch,440,18,62,13,Non-Veg
+Palak Paneer & 2 Roti,Lunch,410,20,38,19,Veg
+Tuna Salad Bowl,Lunch,330,34,14,15,Non-Veg
+Kadhi Pakora & Rice,Lunch,460,12,68,15,Veg
+Mutton Curry & 2 Roti,Lunch,560,34,42,26,Non-Veg
+Soya Pulao & Raita,Lunch,390,24,54,8,Veg
+Grilled Chicken Wrap,Lunch,430,36,38,14,Non-Veg
+Dal Makhani & 2 Roti,Dinner,480,17,56,20,Veg
+Fish Curry & Rice,Dinner,450,30,52,12,Non-Veg
+Tofu Stir Fry & Rice,Dinner,390,22,48,11,Veg
+Chicken Tikka & 2 Roti,Dinner,440,38,36,15,Non-Veg
+Aloo Gobi & 2 Chapati,Dinner,330,8,54,9,Veg
+Prawn Masala & Rice,Dinner,420,32,50,10,Non-Veg
+Moong Dal Khichdi,Dinner,340,14,55,7,Veg
+Egg Bhurji & 2 Chapati,Dinner,380,20,38,16,Non-Veg
+Makhana (Roasted 30g),Snack,110,3,22,1,Veg
+Boiled Egg Whites (4),Snack,70,14,1,0,Non-Veg
+Peanut Chikki (1 bar),Snack,150,4,18,7,Veg
+Sprouts & Paneer Bowl,Snack,190,14,16,7,Veg
+Whey Protein in Water,Snack,120,24,3,1,Veg
+Sweet Potato (Boiled 150g),Snack,130,2,30,0,Veg
+Chicken Seekh Kebab (2 pcs),Snack,220,20,5,13,Non-Veg
+Buttermilk (Chaas 250ml),Snack,60,3,6,2,Veg
+Dosa with Sambar (2 pcs),Breakfast,280,7,48,6,Veg
+Egg Dosa (2 pcs),Breakfast,350,15,44,12,Non-Veg
+Ragi Malt & Boiled Eggs (2),Breakfast,270,16,32,9,Non-Veg
+Moong Dal Chilla with Paneer,Breakfast,290,18,26,12,Veg
+Avocado & Egg Toast,Breakfast,340,15,28,18,Non-Veg
+Muesli with Milk & Almonds,Breakfast,310,11,46,9,Veg
+Paratha (Aloo) with Curd,Breakfast,330,8,48,12,Veg
+Paratha (Paneer) with Curd,Breakfast,380,16,44,15,Veg
+Chicken Omelette (3 eggs),Breakfast,290,32,3,16,Non-Veg
+Rava Uttapam (2 pcs),Breakfast,260,7,44,6,Veg
+Chicken Biryani (1 plate),Lunch,540,28,62,18,Non-Veg
+Veg Pulao & Raita,Lunch,370,10,58,10,Veg
+Bhindi Masala & 2 Roti,Lunch,310,8,46,10,Veg
+Matar Paneer & Rice,Lunch,480,19,56,19,Veg
+Egg Curry & Rice,Lunch,460,22,58,14,Non-Veg
+Grilled Chicken & Brown Rice,Lunch,450,40,48,9,Non-Veg
+Baingan Bharta & 2 Roti,Lunch,300,7,46,9,Veg
+Fish Fry & Dal Rice,Lunch,510,32,56,16,Non-Veg
+Chana Masala & 2 Roti,Lunch,390,15,58,10,Veg
+Lemon Rice & Curd,Lunch,350,8,60,8,Veg
+Soya Bhurji & 2 Roti,Dinner,370,26,40,10,Veg
+Grilled Fish & Veggies,Dinner,340,34,12,16,Non-Veg
+Mix Dal & 2 Roti,Dinner,350,14,54,7,Veg
+Chicken Soup & 2 Toast,Dinner,280,24,28,7,Non-Veg
+Paneer Do Pyaza & 2 Roti,Dinner,440,21,38,22,Veg
+Keema Matar & 2 Roti,Dinner,490,34,36,22,Non-Veg
+Lauki Chana Dal & 2 Roti,Dinner,320,13,50,7,Veg
+Mushroom Masala & 2 Roti,Dinner,340,11,44,13,Veg
+Egg Drop Soup & Stir Fry,Dinner,260,18,16,13,Non-Veg
+Tandoori Chicken (2 pcs) & Salad,Dinner,360,42,8,17,Non-Veg
+Walnuts (30g),Snack,195,4,4,19,Veg
+Paneer Cubes (Roasted 100g),Snack,260,18,4,19,Veg
+Banana & Peanut Butter,Snack,210,5,30,8,Veg
+Masala Corn Chaat,Snack,140,4,26,3,Veg
+Chicken Tikka Skewers (4 pcs),Snack,210,26,4,9,Non-Veg
+Dark Chocolate (2 squares) & Almonds,Snack,170,4,14,12,Veg
+Protein Bar,Snack,200,20,22,6,Veg
+Hummus & Carrot Sticks,Snack,150,5,18,7,Veg
+Tuna & Crackers,Snack,180,18,14,5,Non-Veg
+Cold Coffee (No Sugar),Snack,90,5,8,4,Veg
+Sabudana Khichdi,Breakfast,320,4,58,8,Veg
+Egg White Omelette (4 whites) & Toast,Breakfast,220,20,24,4,Non-Veg
+Sattu Paratha (1 pc) & Curd,Breakfast,310,14,44,8,Veg
+Overnight Oats with Chia & Milk,Breakfast,290,12,42,8,Veg
+Appam (2 pcs) & Vegetable Stew,Breakfast,270,6,46,7,Veg
+Keema Paratha (1 pc) & Curd,Breakfast,390,22,42,14,Non-Veg
+Ragi Dosa (2 pcs) & Chutney,Breakfast,240,7,42,5,Veg
+Poached Eggs (2) & Multigrain Toast,Breakfast,260,16,26,10,Non-Veg
+Pesarattu (2 pcs) & Ginger Chutney,Breakfast,250,12,38,5,Veg
+Chicken Sandwich (Brown Bread),Breakfast,330,26,34,9,Non-Veg
+Masoor Dal & 2 Roti,Lunch,360,16,56,7,Veg
+Chicken Keema Rice Bowl,Lunch,510,34,58,15,Non-Veg
+Shahi Paneer & 2 Roti,Lunch,520,18,42,30,Veg
+Curd Rice & Pomegranate,Lunch,330,9,54,8,Veg
+Prawn Pulao & Raita,Lunch,440,28,56,11,Non-Veg
+Kala Chana Curry & Rice,Lunch,420,16,68,9,Veg
+Egg Masala & 2 Roti,Lunch,410,21,42,16,Non-Veg
+Dum Aloo & 2 Roti,Lunch,380,8,56,13,Veg
+Roasted Chicken & Quinoa Bowl,Lunch,440,38,44,12,Non-Veg
+Toor Dal & Jeera Rice,Lunch,410,13,68,9,Veg
+Paneer Bhurji & 2 Chapati,Dinner,390,22,36,17,Veg
+Grilled Salmon & Veggies,Dinner,410,36,10,24,Non-Veg
+Arhar Dal & 2 Roti,Dinner,340,14,54,7,Veg
+Chicken Tikka Masala & 2 Roti,Dinner,490,36,40,20,Non-Veg
+Cabbage Peas Sabzi & 2 Roti,Dinner,290,8,48,7,Veg
+Egg Curry (2 eggs) & Brown Rice,Dinner,430,20,54,14,Non-Veg
+Malai Kofta & 2 Roti,Dinner,530,14,48,31,Veg
+Lemon Herb Chicken & Salad,Dinner,330,38,8,15,Non-Veg
+Dal Palak & 2 Roti,Dinner,350,15,52,8,Veg
+Fish Tikka (4 pcs) & Mint Chutney,Dinner,290,32,6,14,Non-Veg
+Sattu Drink (Sweet/Salted 300ml),Snack,140,10,22,2,Veg
+Roasted Peanuts (30g),Snack,170,7,6,14,Veg
+Boiled Chickpeas Chaat,Snack,160,8,26,2,Veg
+Chicken Momos (Steamed 6 pcs),Snack,240,18,28,6,Non-Veg
+Paneer Momos (Steamed 6 pcs),Snack,260,12,30,10,Veg
+Pumpkin Seeds (25g),Snack,140,7,4,12,Veg
+Oats Cookies (2 pcs),Snack,150,3,20,6,Veg
+Scrambled Egg Whites (4),Snack,75,15,1,0,Non-Veg
+Apple Slices & Almond Butter,Snack,190,4,24,9,Veg
+Masala Papad (Roasted 2 pcs),Snack,110,5,18,2,Veg
+Vermicelli Upma (Semiya),Breakfast,250,6,44,5,Veg
+Egg Bhurji Sandwich (Brown Bread),Breakfast,310,18,32,12,Non-Veg
+Methi Thepla (3 pcs) & Curd,Breakfast,320,10,46,10,Veg
+Chia Pudding with Almond Milk,Breakfast,220,7,26,10,Veg
+Chicken Kheema Toast (2 slices),Breakfast,340,25,30,13,Non-Veg
+Idiyappam (3 pcs) & Coconut Milk,Breakfast,260,5,50,4,Veg
+Gobhi Paratha (1 pc) & Curd,Breakfast,320,9,46,11,Veg
+Spanish Omelette (3 eggs),Breakfast,310,20,16,18,Non-Veg
+Dalia Porridge with Milk,Breakfast,240,9,42,4,Veg
+Paneer Sandwich (Grilled),Breakfast,350,17,36,15,Veg
+Boiled Egg & Avocado Salad,Breakfast,280,15,12,19,Non-Veg
+Suji Cheela (2 pcs) with Veggies,Breakfast,230,7,38,5,Veg
+Chicken Sausage & Hash Browns,Breakfast,360,22,28,18,Non-Veg
+Cornflakes with Milk & Banana,Breakfast,270,8,52,3,Veg
+Khaman Dhokla (4 pcs),Breakfast,210,8,36,4,Veg
+Shakshuka (2 eggs) & 1 Toast,Breakfast,290,16,22,15,Non-Veg
+Quinoa Upma,Breakfast,260,9,42,6,Veg
+Lobiya (Black-Eyed Peas) Curry & Rice,Lunch,410,16,68,8,Veg
+Chicken Do Pyaza & 2 Roti,Lunch,470,35,40,18,Non-Veg
+Kathal (Jackfruit) Sabzi & 2 Roti,Lunch,360,7,54,12,Veg
+Egg Biryani (1 plate),Lunch,490,20,64,16,Non-Veg
+Paneer Lababdar & 2 Roti,Lunch,510,20,42,28,Veg
+Grilled Fish & Mashed Potatoes,Lunch,420,34,38,14,Non-Veg
+Aloo Matar & 2 Roti,Lunch,350,8,56,10,Veg
+Chicken Shawarma Bowl,Lunch,460,36,44,15,Non-Veg
+Sambar Rice & Papad,Lunch,380,11,66,7,Veg
+Mutton Rogan Josh & Rice,Lunch,580,34,52,25,Non-Veg
+Soyabean Sabzi & 2 Roti,Lunch,380,24,46,10,Veg
+Tuna Sandwich (Multigrain),Lunch,340,28,34,9,Non-Veg
+Navratan Korma & 2 Roti,Lunch,470,13,48,25,Veg
+Prawn Curry & Brown Rice,Lunch,430,30,52,11,Non-Veg
+Chana Dal & 2 Roti,Lunch,370,15,56,9,Veg
+Chicken Caesar Salad,Lunch,350,34,14,17,Non-Veg
+Tinda Masala & 2 Roti,Lunch,280,7,46,7,Veg
+Palak Chicken & 2 Roti,Dinner,420,36,36,14,Non-Veg
+Paneer Matar & 2 Roti,Dinner,430,20,40,20,Veg
+Egg Tadka & 2 Roti,Dinner,400,21,42,15,Non-Veg
+Sprouted Moong Dal & 2 Roti,Dinner,330,16,52,6,Veg
+Baked Chicken Drumsticks (2) & Veggies,Dinner,370,38,12,18,Non-Veg
+Shimla Mirch Aloo & 2 Roti,Dinner,310,7,50,9,Veg
+Fish Moilee & Steamed Rice,Dinner,440,30,50,13,Non-Veg
+Tofu Tikka & Salad,Dinner,290,22,12,17,Veg
+Chicken Stew & 2 Appam,Dinner,390,28,46,10,Non-Veg
+Urad Dal & 2 Roti,Dinner,360,15,54,8,Veg
+Egg Roll (Whole Wheat),Dinner,350,17,38,14,Non-Veg
+Kadai Paneer & 2 Roti,Dinner,460,20,38,25,Veg
+Grilled Prawns & Stir-Fry Veggies,Dinner,280,32,10,12,Non-Veg
+Jeera Aloo & Dal Roti,Dinner,390,13,62,9,Veg
+Chicken Kheema Matar & 2 Roti,Dinner,480,35,38,20,Non-Veg
+Pumpkin (Kaddu) Sabzi & 2 Roti,Dinner,290,7,50,7,Veg
+Bhel Puri (Homemade 1 bowl),Snack,160,4,30,3,Veg
+Cashews (Roasted 25g),Snack,145,4,8,12,Veg
+Chicken Popcorn (Air-Fried 100g),Snack,210,24,10,8,Non-Veg
+Edamame (Steamed 100g),Snack,120,11,9,5,Veg
+Boiled Eggs (2) with Black Pepper,Snack,140,12,1,10,Non-Veg
+Rice Cakes (2) with Peanut Butter,Snack,190,6,22,8,Veg
+Cucumber & Hung Curd Dip,Snack,95,6,8,4,Veg
+Pistachios (25g),Snack,140,5,7,11,Veg
+Grilled Chicken Strips (100g),Snack,165,31,0,3,Non-Veg
+Sweet Corn (Boiled 1 cup),Snack,130,4,28,2,Veg
+Chia Seed Lemonade (No Sugar),Snack,60,2,8,3,Veg
+Paneer Bhurji Toast (1 slice),Snack,220,13,18,11,Veg
+Dry Fruit Ladoo (1 small),Snack,140,3,18,6,Veg
+Tuna Lettuce Wraps (2 pcs),Snack,160,24,4,5,Non-Veg
+Roasted Soy Nuts (30g),Snack,135,13,9,5,Veg
+Papaya Bowl (200g),Snack,85,1,21,0,Veg
+Egg Salad (2 eggs with Yogurt),Snack,180,14,4,12,Non-Veg
